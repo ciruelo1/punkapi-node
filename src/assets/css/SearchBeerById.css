@@ -1,0 +1,22 @@
+.searchById {
+    display: flex;
+    width: 103px;
+    height: auto;
+    padding: 10px;
+    margin-left: 220px;
+}
+
+#inputId {
+    width: 30px;
+    height: 25px;
+    border-radius: 5px;
+    margin-right: 5px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+#buttonId {
+    font-weight: bold;
+    background-color: rgb(70, 180, 107);
+    border-radius: 5px;
+}

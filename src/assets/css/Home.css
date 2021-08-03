@@ -1,0 +1,12 @@
+.home { 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.home img {
+    width: 100px;
+    height: 250px;
+    margin: 20px;
+}

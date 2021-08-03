@@ -1,0 +1,14 @@
+.searchRandomBeer {
+    display: flex;
+    width: 60px;
+    height: auto;
+    padding: 10px;
+    margin-left: 263px;
+}
+
+#buttonRandom {
+    font-weight: bold;
+    background-color: rgb(255, 233, 106);
+    border-radius: 5px;
+    height: 31px;
+}

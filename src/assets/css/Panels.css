@@ -1,0 +1,9 @@
+.panels {
+    background-image: url("../img/madera-luz.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    border: 2px solid black;
+    min-height: 800px;
+    margin-top: 10px;
+}
